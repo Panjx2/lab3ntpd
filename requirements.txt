@@ -1,0 +1,6 @@
+# === requirements.txt ===
+flask
+flasgger
+scikit-learn
+numpy
+waitress
