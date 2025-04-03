@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c8914bc-df5c-4565-85ac-110f0c2935d4" name="Changes" comment="forgot swagger lol" />
+    <list default="true" id="3c8914bc-df5c-4565-85ac-110f0c2935d4" name="Changes" comment="forgot swagger lol">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +102,7 @@
       <workItem from="1743686508626" duration="101000" />
       <workItem from="1743686974969" duration="37000" />
       <workItem from="1743689342196" duration="31000" />
-      <workItem from="1743689487847" duration="1631000" />
+      <workItem from="1743689487847" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="Siema">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743691438722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="forgot swagger lol">
+      <option name="closed" value="true" />
+      <created>1743691470486</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743691470486</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
