@@ -29,3 +29,4 @@ curl -X POST http://localhost:8000/predict \
 - POST /predict – predykcja
 - GET /info    – info o modelu
 - GET /health  – status serwera
+- http://localhost:8000/apidocs - swagger
