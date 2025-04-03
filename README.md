@@ -1,4 +1,3 @@
-# === README.md (do sprawozdania / GitHub) ===
 # ML API - Iris Dataset
 
 ## Uruchomienie lokalne

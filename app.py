@@ -1,9 +1,7 @@
-# === app.py ===
 from flask import Flask, request, jsonify
 from flasgger import Swagger
 from sklearn.datasets import load_iris
 from sklearn.linear_model import LogisticRegression
-import numpy as np
 
 app = Flask(__name__)
 Swagger(app)
