@@ -4,3 +4,4 @@ flasgger
 scikit-learn
 numpy
 waitress
+python-dotenv
